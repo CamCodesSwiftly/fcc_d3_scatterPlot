@@ -1,0 +1,14 @@
+h1,
+h2 {
+	text-align: center;
+}
+
+#tooltip {
+	position: absolute;
+	/* visibility: hidden; */
+	background-color: lightblue ;
+	opacity: 0;
+	box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.3);
+	border-radius: 3px;
+	padding: 10px;
+}
